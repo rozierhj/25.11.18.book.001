@@ -1,0 +1,11 @@
+CustomerID,TenureMonths,MonthlyCharges,ContractType,Churned
+C001,2,75.3,Month-to-month,Yes
+C002,12,65.0,One year,No
+C003,5,89.2,Month-to-month,Yes
+C004,24,55.1,Two year,No
+C005,36,49.9,Two year,No
+C006,8,92.5,Month-to-month,Yes
+C007,16,70.0,One year,No
+C008,20,68.4,One year,No
+C009,1,99.0,Month-to-month,Yes
+C010,10,77.7,Month-to-month,Yes
