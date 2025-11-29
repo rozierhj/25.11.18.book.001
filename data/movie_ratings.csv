@@ -1,0 +1,11 @@
+UserID,Movie,Genre,Rating,WatchMinutes
+U001,The Last Planet,Sci-Fi,4.5,110
+U002,Hidden Truth,Thriller,3.8,95
+U003,City Lights,Drama,4.9,125
+U004,Love & Data,Romance,4.2,100
+U005,Quantum Quest,Sci-Fi,4.7,130
+U006,Hidden Truth,Thriller,4.1,102
+U007,City Lights,Drama,4.3,118
+U008,Love & Data,Romance,3.9,90
+U009,The Last Planet,Sci-Fi,4.0,105
+U010,Quantum Quest,Sci-Fi,4.8,140
